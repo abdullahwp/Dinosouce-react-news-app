@@ -1,5 +1,5 @@
 # Dinosouce-react-news-app
-News app on react
+News app on react class based
 
 This is only testing app its not professional version of this app.
 
